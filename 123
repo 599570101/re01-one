@@ -1,0 +1,48 @@
+<html lang="zh-CN"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>第一个网站</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+  <div style="
+   background-color: #f1f1f1;
+   text-align: center;
+   padding: 40px;
+   background-color:orange;
+   ">
+    <img src="https://imgloc.com/image/9dhAp" alt="为常" width="80px" height="80px">
+
+  </div>
+  <div style="
+   max-width: 900px;
+   margin: 30px auto;
+   padding: 15px;
+   line-height: 1.7;
+   background-color: while;
+  ">
+    
+    <p style="color: while">石头很小，山群很大，生命繁忙。</p>
+    <p style="color: purple">时间在头顶上的云层上空飘逝，断崖坐落在一个地方，从来没有移动过。</p>
+    <p style="color: blue">朴素的断崖远离了灯火的辉煌，坚强的断崖支撑着深情的凝视</p>
+    <p>我的呼吸在灯光的波纹里，遥遥地望着村庄边畔的断崖，断崖仍然在它的世界里。断崖的形象在我的意念里。我为它在我的思维里安排了一个位置，支撑起我的信念，滤得我的目光越来越纯净。</p>
+    
+  </div>
+  <div style="
+   background-color: #f1f1f1;
+   text-align: center;
+   padding: 40px;
+   font-size: 12px;
+   background-color:blue
+   ">
+    <p>我的网站</p>
+    <a href="http://kangwenchang.com/">友情链接</a>
+    </div>
+    
+  
+
+</body></html>
